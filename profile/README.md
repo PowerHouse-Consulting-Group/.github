@@ -38,4 +38,4 @@ We treat digital growth and data hygiene as strict engineering problems. We do n
 
 ---
 
-**Initiate an Audit:** [powerhouseconsulting.group](https://powerhouseconsulting.group) | **Support Portal:** [Client Ticketing System](https://powerhouseconsulting.group)
+**Initiate an Audit:** [powerhouseconsulting.group](https://powerhouseconsulting.group) | **Support Portal:** [Client Ticketing System](https://help.powerhouseconsulting.group/tickets)
